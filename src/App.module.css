@@ -1,0 +1,18 @@
+.blockWrapperClass {
+  display: flex;
+  flex-direction: column;
+}
+.contentWrapperClass {
+  margin-bottom: 20px;
+}
+.contentClass {
+  border: none;
+}
+.buttonClass {
+  margin: auto;
+  background-color: teal;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+}
