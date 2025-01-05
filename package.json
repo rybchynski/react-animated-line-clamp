@@ -11,6 +11,14 @@
     "name": "Yuriy Rybchynski",
     "email": "yuriyrybchynski.dev@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rybchynski/react-animated-line-clamp"
+  },
+  "bugs": {
+    "url": "https://github.com/rybchynski/react-animated-line-clamp/issues"
+  },
+  "homepage": "https://github.com/rybchynski/react-animated-line-clamp",
   "keywords": [
     "react",
     "react line clamp",
