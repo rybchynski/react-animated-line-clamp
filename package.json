@@ -3,7 +3,7 @@
   "description": "React animated line clamp is a lightweight and zero-dependency React functional component for animating text truncation with line clamping",
   "private": false,
   "license": "MIT",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "main": "dist/main.js",
   "types": "dist/main.d.ts",
