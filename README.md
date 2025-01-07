@@ -14,6 +14,10 @@ React animated line clamp is a lightweight and zero-dependency package with Reac
 - **Functional Component**: Uses React hooks for simplicity and modern React patterns.
 - **Animated**: Smooth transition when clamping or expanding content.
 
+## Demo
+
+[React Animated Line Clamp](https://react-animated-line-clamp-demo-ub1r.vercel.app)
+
 ## Installation
 
 You can install the package with following command:
